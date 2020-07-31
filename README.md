@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying in Shanghaitech
-- 🌱 I’m currently learning Android && Algorithms
+- 🌱 I’m currently learning OpenCV && Probability
 - 👯 I’m looking to collaborate on anything interesting
 - 🤔 I’m looking for help with Improve GPA
 - 💬 Ask me about ~~sry I know nothing~~
