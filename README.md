@@ -7,7 +7,7 @@
   Hi 👋, I'm Hongchen Cao (https://caohch-1.github.io/)
   <img src="https://komarev.com/ghpvc/?username=caohch-1&label=Profile%20views&color=0e75b6&style=flat" alt="caohch-1" />
 </h1>
-<h3 align="center">A 1st year master student from Shanghai, China</h3>
+<h3 align="center">A 2nd year master student from Shanghai, China</h3>
 
 - 🔭 I’m currently studying in **Shanghaitech**
 
