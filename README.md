@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying in **Shanghaitech**
 
-- 🌱 My research interests lie in ***Software Engineering*, especially *Cloud Availability&Reliability* and *Empirical Software Engineering***
+- 🌱 My research interests lie in **Software Engineering**.
 
 - 🖊️ Under supervision of **[Prof. Jingzhu He](https://jhe16.github.io/) from 2022.10 to the present**
 
