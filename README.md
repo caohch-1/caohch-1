@@ -17,7 +17,7 @@
 
 - 📖 Under supervison of **[Prof. Yutian Tang](https://www.chrisyttang.org/index.html) from 2020.12 to the 2022.9**
 
-- 📫 How to reach me **chc2267408610@gmail.com, {github_account.replace('-1', '2023')}@shanghaitech.edu.cn**
+- 📫 How to reach me **{github_account.replace('-1', '2023')}@shanghaitech.edu.cn**
 
 
 <!---
