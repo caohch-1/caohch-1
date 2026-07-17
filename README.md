@@ -7,13 +7,11 @@
   Hi 👋, I'm Hongchen Cao (https://caohch-1.github.io/)
   <img src="https://komarev.com/ghpvc/?username=caohch-1&label=Profile%20views&color=0e75b6&style=flat" alt="caohch-1" />
 </h1>
-<h3 align="center">A 3rd year master student from Shanghai, China</h3>
-
-- 🔭 I’m currently studying at **Shanghaitech**
+<h3 align="center">A research intern at Ant Group, Beijing, China</h3>
 
 - 🌱 My research interests lie in **Software Engineering**.
 
-- 🖊️ Under supervision of **[Prof. Jingzhu He](https://jhe16.github.io/) from 2022.10 to the present**
+- 🖊️ Under supervision of **[Prof. Jingzhu He](https://jhe16.github.io/) from 2022.10 to 2026.7**
 
 - 📖 Under supervison of **[Prof. Yutian Tang](https://www.chrisyttang.org/index.html) from 2020.12 to the 2022.9**
 
