@@ -9,11 +9,9 @@
 </h1>
 <h3 align="center">A research intern at Ant Group, Beijing, China</h3>
 
-- 🌱 My research interests lie in **Software Engineering**.
+Feel free to ask me anything—whether it’s about my projects, papers, lab, or any other way I might be able to help you!
 
-- 🖊️ Under supervision of **[Prof. Jingzhu He](https://jhe16.github.io/) from 2022.10 to 2026.7**
-
-- 📖 Under supervison of **[Prof. Yutian Tang](https://www.chrisyttang.org/index.html) from 2020.12 to 2022.9**
+- 🌱 My research interests lie in **Software Engineering & LLM Infra**.
 
 - 📫 How to reach me **{github_account.replace('-1', '2023')}@shanghaitech.edu.cn**
 
